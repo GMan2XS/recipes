@@ -1,0 +1,5 @@
+Take can of soup from cupboard.
+Open can & pour contents into soup bowl.
+Place bowl in microwave.
+Heat for 2 minutes.
+Enjoy!
